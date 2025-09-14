@@ -3201,7 +3201,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 175.26 123.19 0)
 			(effects
 				(font
@@ -3288,7 +3288,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 			(at 150.114 69.85 0)
 			(effects
 				(font
@@ -3367,7 +3367,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 162.56 105.41 0)
 			(effects
 				(font
@@ -3520,7 +3520,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 170.18 114.3 0)
 			(effects
 				(font
@@ -3723,7 +3723,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 			(at 137.414 69.85 0)
 			(effects
 				(font
@@ -4003,7 +4003,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 148.59 85.09 0)
 			(effects
 				(font
@@ -4089,7 +4089,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 132.08 96.52 0)
 			(effects
 				(font
@@ -4142,7 +4142,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5b30fcc5-f547-4cf4-ab69-e63ce6934ea0")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0101"
 			(at 146.05 59.69 0)
 			(effects
 				(font
@@ -4192,7 +4192,7 @@
 		(instances
 			(project ""
 				(path "/5199830b-a9f9-4c8d-9477-d4863d1aab8c"
-					(reference "#PWR?")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -4224,7 +4224,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 144.78 96.52 0)
 			(effects
 				(font
@@ -4294,7 +4294,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 137.16 105.41 0)
 			(effects
 				(font
@@ -4381,7 +4381,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 			(at 194.31 148.59 0)
 			(effects
 				(font
@@ -4455,7 +4455,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 132.08 114.3 0)
 			(effects
 				(font
@@ -4792,7 +4792,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 			(at 165.1 148.59 0)
 			(effects
 				(font
@@ -4868,7 +4868,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 182.88 85.09 0)
 			(effects
 				(font
@@ -4954,7 +4954,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 157.48 114.3 0)
 			(effects
 				(font
@@ -5023,7 +5023,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 			(at 134.62 148.59 0)
 			(effects
 				(font
@@ -5099,7 +5099,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 162.56 123.19 0)
 			(effects
 				(font
@@ -5187,7 +5187,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 135.89 85.09 0)
 			(effects
 				(font
@@ -5273,7 +5273,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 144.78 114.3 0)
 			(effects
 				(font
@@ -5343,7 +5343,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 137.16 123.19 0)
 			(effects
 				(font
@@ -5430,7 +5430,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 			(at 184.404 69.85 0)
 			(effects
 				(font
@@ -5507,7 +5507,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RP2040-ZERO:MODULE_RP2040-ZERO"
+		(property "Footprint" "RP2040:MODULE_RP2040-ZERO"
 			(at 240.03 102.87 0)
 			(effects
 				(font
@@ -5761,7 +5761,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 149.86 123.19 0)
 			(effects
 				(font
@@ -5847,7 +5847,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 157.48 96.52 0)
 			(effects
 				(font
@@ -5917,7 +5917,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 149.86 105.41 0)
 			(effects
 				(font
